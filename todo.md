@@ -23,7 +23,7 @@
 - [x] Radar de Eventos (/events) — listagem paginada, busca, filtros por tipo/status
 - [x] Detalhe do Evento (/events/:id) — informações completas, link para portal original
 - [x] Oportunidades Previstas (/opportunities) — barra confiança, contagem regressiva, filtros
-- [ ] Detalhe da Oportunidade (/opportunities/:id) — fundamentação, eventos gatilho
+- [x] Detalhe da Oportunidade (/opportunities/:id) — fundamentação, eventos gatilho
 - [x] Fontes de Dados (/sources) — listagem e gerenciamento, adicionar portais customizados
 - [x] Alertas (/alerts) — regras configuráveis com filtros
 - [x] Estados de loading (skeletons) em todas as listagens
@@ -32,5 +32,5 @@
 ## Qualidade
 - [x] TypeScript check sem erros
 - [x] Build production sem erros
-- [ ] Testes vitest cobrindo routers principais
-- [ ] Checkpoint final
+- [x] Testes vitest cobrindo routers principais (18 testes passando)
+- [x] Checkpoint final

@@ -8,6 +8,7 @@ import Home from "./pages/Home";
 import Events from "./pages/Events";
 import EventDetail from "./pages/EventDetail";
 import Opportunities from "./pages/Opportunities";
+import OpportunityDetail from "./pages/OpportunityDetail";
 import Sources from "./pages/Sources";
 import Alerts from "./pages/Alerts";
 
@@ -18,7 +19,7 @@ function Router() {
       <Route path={"/events"} component={Events} />
       <Route path={"/events/:id"} component={EventDetail} />
       <Route path={"/opportunities"} component={Opportunities} />
-      <Route path={"/opportunities/:id"} component={() => <div>Detalhe da Oportunidade</div>} />
+      <Route path={"/opportunities/:id"} component={OpportunityDetail} />
       <Route path={"/sources"} component={Sources} />
       <Route path={"/alerts"} component={Alerts} />
       <Route path={"/404"} component={NotFound} />
