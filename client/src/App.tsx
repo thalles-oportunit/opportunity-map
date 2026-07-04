@@ -4,6 +4,7 @@ import NotFound from "@/pages/NotFound";
 import { Route, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
+import Landing from "./pages/Landing";
 import Home from "./pages/Home";
 import Events from "./pages/Events";
 import EventDetail from "./pages/EventDetail";
@@ -15,6 +16,7 @@ import Alerts from "./pages/Alerts";
 function Router() {
   return (
     <Switch>
+      <Route path={"/landing"} component={Landing} />
       <Route path={"/"} component={Home} />
       <Route path={"/events"} component={Events} />
       <Route path={"/events/:id"} component={EventDetail} />
