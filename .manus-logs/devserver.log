@@ -1,0 +1,23 @@
+[2026-06-30T03:07:33.556Z] Starting dev server with command: pnpm run dev
+[2026-06-30T03:07:34.184Z] [WARN] The "pnpm" field in package.json is no longer read by pnpm. The following keys were ignored: "pnpm.patchedDependencies", "pnpm.overrides". See https://pnpm.io/settings for the new home of each setting.
+[2026-06-30T03:07:34.783Z] > opportunity-map@1.0.0 dev /home/ubuntu/opportunity-map
+[2026-06-30T03:07:34.783Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-30T03:07:34.786Z] sh: 1: tsx: not found
+[2026-06-30T03:07:34.790Z] ELIFECYCLE  Command failed.
+[2026-06-30T03:07:34.791Z] WARN   Local package.json exists, but node_modules missing, did you mean to install?
+[2026-06-30T03:07:34.820Z] Dev server exited with code 1
+[2026-06-30T03:07:40.341Z] Starting dev server with command: pnpm run dev
+[2026-06-30T03:07:40.903Z] [WARN] The "pnpm" field in package.json is no longer read by pnpm. The following keys were ignored: "pnpm.patchedDependencies", "pnpm.overrides". See https://pnpm.io/settings for the new home of each setting.
+[2026-06-30T03:07:41.394Z] > opportunity-map@1.0.0 dev /home/ubuntu/opportunity-map
+[2026-06-30T03:07:41.394Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-30T03:07:41.397Z] sh: 1: tsx: not found
+[2026-06-30T03:07:41.401Z] ELIFECYCLE  Command failed.
+[2026-06-30T03:07:41.401Z] WARN   Local package.json exists, but node_modules missing, did you mean to install?
+[2026-06-30T03:07:41.431Z] Dev server exited with code 1
+[2026-06-30T03:07:54.068Z] Starting dev server with command: pnpm run dev
+[2026-06-30T03:07:54.800Z] > opportunity-map@1.0.0 dev /home/ubuntu/opportunity-map
+[2026-06-30T03:07:54.801Z] > NODE_ENV=development tsx watch server/_core/index.ts
+[2026-06-30T03:07:56.538Z] [OAuth] Initialized with baseURL: https://api.manus.im
+[2026-06-30T03:07:56.791Z] Server running on http://localhost:3000/
+[2026-06-30T03:08:05.557Z] [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[2026-06-30T03:23:25.901Z] [Auth] Missing session cookie

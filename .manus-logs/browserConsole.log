@@ -1,0 +1,14 @@
+[2026-06-30T03:08:07.704Z] {"timestamp":1782788885692,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-06-30T03:08:07.704Z] {"timestamp":1782788885963,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-06-30T03:08:07.704Z] {"timestamp":1782788886500,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-06-30T03:13:45.186Z] {"timestamp":1782789223178,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-06-30T03:13:45.186Z] {"timestamp":1782789223186,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-06-30T03:13:45.186Z] {"timestamp":1782789223350,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-06-30T03:23:25.006Z] {"timestamp":1782789803442,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-06-30T03:23:25.006Z] {"timestamp":1782789803987,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-06-30T03:23:30.736Z] {"timestamp":1782789808945,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-06-30T03:23:30.736Z] {"timestamp":1782789809385,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-06-30T03:25:23.685Z] {"timestamp":1782789920616,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-06-30T03:25:23.685Z] {"timestamp":1782789921147,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-06-30T03:25:29.717Z] {"timestamp":1782789926981,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-06-30T03:25:29.717Z] {"timestamp":1782789927433,"level":"DEBUG","args":["[vite] connected."],"stack":null}
